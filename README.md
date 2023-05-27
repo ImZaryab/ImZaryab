@@ -1,6 +1,5 @@
 <h1 align="center">Hello Wanderer!</h1>
 
-![An AI generated space art](http://103.151.111.40/wordpress/wp-content/uploads/2022/11/Illustration_of_space_travel_by_dan_mumford.jpg)
 - 👋 Nice to have you here! I'm Zaryab.
 - 👀 I’m interested in Web Developement and Cloud Computing.
 - 🌱 I’m currently learning Blockchain, Web3 Technologies, Astro, Next.js and Linux
