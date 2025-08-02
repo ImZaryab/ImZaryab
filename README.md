@@ -2,7 +2,8 @@
 
 - 👋 Nice to have you here! I'm Zaryab.
 - 👀 I’m interested in Web Developement and Cloud Computing.
-- 🌱 I’m currently learning Blockchain, Web3 Technologies, Astro, Next.js and Linux
+- 🌱 I’m currently learning Web3 Technologies and Artificial Intelligence.
+- 🐧 I’m an average linux enjoyer.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach out to me through my email or other contact details which are shared on my personal website.
 
